@@ -1,0 +1,45 @@
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.deps.json
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.json
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.deps.json
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.json
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\VS Code Project's\Tareas\Quinto cuatrimestre\Aplicaciones web para I4.0\Api_Peliculas_v2\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.deps.json
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.json
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\bin\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\API_Peliculas Carlos\API_Peliculas\ApiPeliculas.Domain\obj\Debug\net5.0\ApiPeliculas.Domain.genruntimeconfig.cache
